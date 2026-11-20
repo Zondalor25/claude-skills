@@ -13,5 +13,6 @@
 | trailofbits | https://github.com/trailofbits/skills | CC-BY-SA-4.0 |
 | design-skills | https://github.com/Zondalor25/design-skills (перенесён) | см. licenses/ внутри |
 | slidelab-business-text | https://github.com/Zondalor25/slidelab-business-text (перенесён) | см. licenses/ внутри |
+| stop-slop | https://github.com/hardikpandya/stop-slop | MIT |
 
 Репозиторий приватный: у части источников нет лицензии, публично их выкладывать нельзя.
