@@ -11,5 +11,7 @@
 | excalidraw-diagram | https://github.com/coleam00/excalidraw-diagram-skill | не указана |
 | caveman | https://github.com/juliusbrussee/caveman | Apache-2.0 |
 | trailofbits | https://github.com/trailofbits/skills | CC-BY-SA-4.0 |
+| design-skills | https://github.com/Zondalor25/design-skills (перенесён) | см. licenses/ внутри |
+| slidelab-business-text | https://github.com/Zondalor25/slidelab-business-text (перенесён) | см. licenses/ внутри |
 
 Репозиторий приватный: у части источников нет лицензии, публично их выкладывать нельзя.
